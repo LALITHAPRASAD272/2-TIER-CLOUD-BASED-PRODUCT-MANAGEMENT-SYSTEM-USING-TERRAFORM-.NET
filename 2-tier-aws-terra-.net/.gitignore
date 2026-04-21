@@ -1,0 +1,18 @@
+.terraform
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate
+.terraform.tfstate.backup
+.terraformrc
+terraform.rc
+# Crash log files
+crash.log
+# Exclude override files
+override.tf
+.net-terra-doc.docx
+prasad-key.pem
+prasad-key.pem.pub
+provider.tf
+.terraform.lock.hcl
+LICENSE
+terraform-provider-aws-4.0.0
